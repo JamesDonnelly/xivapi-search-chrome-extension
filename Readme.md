@@ -6,7 +6,7 @@ This is mostly intended for developers of XIVAPI applications.
 
 ## Download
 
-This extension is published on the Chrome Web Store (don't worry, it's free!). [Click here to add it!](https://chrome.google.com/webstore/detail/xivapi-quick-search/lgefpgdbbmcahllbifniibndmoignmfg)
+This extension is published on the Chrome Web Store. [Click here to get it!](https://chrome.google.com/webstore/detail/xivapi-quick-search/lgefpgdbbmcahllbifniibndmoignmfg)
 
 ---
 
