@@ -1,0 +1,4 @@
+{
+  "presets": [["es2015", { "modules": false }], "react", "stage-0"],
+  "plugins": ["react-html-attrs", "transform-decorators-legacy", "transform-class-properties", "babel-polyfill"]
+}

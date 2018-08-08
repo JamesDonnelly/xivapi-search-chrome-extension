@@ -1,0 +1,18 @@
+{
+  "name": "XIVAPI Quick Search",
+  "version": "1.0",
+  "description": "Quickly search XIVAPI.com and be taken directly to the endpoint for whichever resources match your query.",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "64": "icon/64x64.png"
+    }
+  },
+  "background": {
+    "page": "background.html"
+  },
+  "icons": {
+    "64": "icon/64x64.png"
+  }
+}
