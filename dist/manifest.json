@@ -1,6 +1,6 @@
 {
   "name": "XIVAPI Quick Search",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Quickly search XIVAPI.com and be taken directly to the endpoint for whichever resources match your query.",
   "manifest_version": 2,
   "browser_action": {

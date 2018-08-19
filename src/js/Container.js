@@ -41,7 +41,7 @@ export default class extends React.Component {
         .then(data => {
           const results = {};
 
-          data.results.forEach(entry => {
+          data.Results.forEach(entry => {
             const {
               GameType,
               Icon,
