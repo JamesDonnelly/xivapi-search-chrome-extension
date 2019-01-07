@@ -32,7 +32,7 @@ export default class extends React.Component {
       searching: true
     }, () => {
       fetch((
-        `http://xivapi.com/Search?string=${encodeURIComponent(query.replace(/ /g, '+'))}`
+        `https://xivapi.com/search?key=3ff0b0a5b3224bc09ef03e8d&string=${encodeURIComponent(query.replace(/ /g, '+'))}`
       ), {
         method: 'GET',
         mode: 'cors'
